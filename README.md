@@ -1,5 +1,5 @@
-1. The challenge
-The case
+# The challenge
+## The case
 The participant would be in our Belgian Prime Minister’s shoes. The idea is that our Prime
 Minister wants to improve bicycle use and infrastructures in Belgium. However, they
 have a limited budget, and they want to focus first on the city/region where it will have
@@ -11,9 +11,8 @@ some ideas. For example, to analyse the situation regarding the level of actual
 development (i.e., where infrastructure is lacking), the number of bicycle accidents, who
 is using current infrastructures and when they use it, the level of pollution in some areas,
 etc. We are open to creativity.
-2. Data sets
+## Data sets
 The data set
-Hackathon: Data sets
 1. Open street map data
 For Brussels, Antwerp, Leuven, Liège, Namur, Bruges, Charleroi, and Ghent
 2. Road accidents
